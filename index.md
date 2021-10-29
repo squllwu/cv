@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>武永亮</h1>
+      <h1>Yongliang Wu</h1>
       <p><b>博士，讲师</b></p>
       <p><b>石家庄铁道大学</b></p>
       <p><b>邮箱：wuyongliang@stdu.edu.cn</b></p>
