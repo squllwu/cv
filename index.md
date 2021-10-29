@@ -22,9 +22,6 @@ Lecturer and postgraduate tutor of School of Information Science and Technology,
 ### Project Research
 |      |   |
 |  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
-
 |Ph.D.| School of Mathematics and Information Science, Hebei Normal University; Major: Computational Mathematics|  
 |Master's degree | School of Mathematics and Information Science, Hebei Normal University; Major: Computer Technology|  
 |Bachelor |  Mathematics and Statistics, Hebei University of Economics and Business; Major: Information and Computing Science|  
