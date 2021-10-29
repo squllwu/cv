@@ -27,6 +27,6 @@ Lecturer and postgraduate tutor of School of Information Science and Technology,
 |Bachelor of Science |  College of Mathematics and Statistics, Hebei University of Economics and Business |Information and Computing Science|  
 
 ### Publications
-[1] Y. Wu, S. Zhao, W. Li, Phrase2Vec: Phrase Embedding Based on Parsing, Information Sciences, 517 (2020) 100-127.  
-[2] Y. Wu, S. Zhao, Community Answer Generation Based on Knowledge Graph, Information Sciences, 545 (2021) 132-152.  
-[3] Y. Wu, S. Zhao, R. Guo, A Novel Community Answer Matching Approach Based on Phrase Fusion Heterogeneous Information Network, Information Processing and Management, 58 (2021) 102408.  
+[1] Y. Wu, S. Zhao, W. Li, Phrase2Vec: Phrase Embedding Based on Parsing, Information Sciences, 517 (2020) 100-127. ([Code](https://github.com/squllwu/test12))  
+[2] Y. Wu, S. Zhao, Community Answer Generation Based on Knowledge Graph, Information Sciences, 545 (2021) 132-152. ([Code](https://github.com/squllwu/test12))  
+[3] Y. Wu, S. Zhao, R. Guo, A Novel Community Answer Matching Approach Based on Phrase Fusion Heterogeneous Information Network, Information Processing and Management, 58 (2021) 102408.([Code](https://github.com/squllwu/test12))    
