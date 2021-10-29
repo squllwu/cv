@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 <div>
 <table border="0">
   <tr>
