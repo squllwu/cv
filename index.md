@@ -21,7 +21,7 @@ Lecturer and postgraduate tutor of School of Information Science and Technology,
 
 ### Learning Experience
 
-|  表头   | 表头  | 表头  |
+|  Degree   | College  | Major  |
 |  ----  | ----  | ----  |
 | Doctor of Science| School of Mathematics and Information Science, Hebei Normal University |Computational Mathematics|  
 | Master of Engineering| School of Mathematics and Information Science, Hebei Normal University |Computer Technology|  
