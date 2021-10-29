@@ -24,7 +24,12 @@ Lecturer and postgraduate tutor of School of Information Science and Technology,
 |  ----  | ----  | ----  |
 |Doctor of Science| School of Mathematics and Information Science, Hebei Normal University |Computational Mathematics|  
 |Master of Engineering| School of Mathematics and Information Science, Hebei Normal University |Computer Technology|  
-|Bachelor of Science |  College of Mathematics and Statistics, Hebei University of Economics and Business |Information and Computing Science|  
+|Bachelor of Science |  College of Mathematics and Statistics, Hebei University of Economics and Business |Information and Computing Science|
+
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
 
 ### Publications
 [1] Y. Wu, S. Zhao, W. Li, Phrase2Vec: Phrase Embedding Based on Parsing, Information Sciences, 517 (2020) 100-127. ([Code](https://github.com/squllwu/test12))  
