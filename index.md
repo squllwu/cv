@@ -20,7 +20,7 @@
 Lecturer and postgraduate tutor of School of Information Science and Technology, Shijiazhuang Tiedao University, member of CCF Natural Language Processing Committee.  Main research directions: data mining, machine learning, natural language processing, graph neural network. The projects being undertaken: 1 National Natural Science Foundation of China and 1 Natural Science Foundation of Hebei Province. He has published 3 SCI papers and 4 Chinese core papers in journals such as Information Sciences, Information Processing and Management and the Chinese Journal of Information.
 
 ### Learning Experience
-|      |    |    |
+|   a   |  b  |  c  |
 |  ----  | ----  | ----  |
 | Doctor of Science| School of Mathematics and Information Science, Hebei Normal University |Computational Mathematics|  
 | Master of Engineering| School of Mathematics and Information Science, Hebei Normal University |Computer Technology|  
