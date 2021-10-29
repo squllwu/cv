@@ -21,7 +21,6 @@ Lecturer and postgraduate tutor of School of Information Science and Technology,
 
 ### Project Research
 |  表头   | 表头  |
-|  ----  | ----  |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
 
