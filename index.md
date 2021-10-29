@@ -20,9 +20,9 @@
 Lecturer and postgraduate tutor of School of Information Science and Technology, Shijiazhuang Tiedao University, member of CCF Natural Language Processing Committee.  Main research directions: data mining, machine learning, natural language processing, graph neural network. The projects being undertaken: 1 National Natural Science Foundation of China and 1 Natural Science Foundation of Hebei Province. He has published 3 SCI papers and 4 Chinese core papers in journals such as Information Sciences, Information Processing and Management and the Chinese Journal of Information.
 
 ### Project Research
-Ph.D.| School of Mathematics and Information Science, Hebei Normal University; Major: Computational Mathematics  
-Master's degree | School of Mathematics and Information Science, Hebei Normal University; Major: Computer Technology  
-Bachelor |  Mathematics and Statistics, Hebei University of Economics and Business; Major: Information and Computing Science  
+|Ph.D.| School of Mathematics and Information Science, Hebei Normal University; Major: Computational Mathematics|  
+|Master's degree | School of Mathematics and Information Science, Hebei Normal University; Major: Computer Technology|  
+|Bachelor |  Mathematics and Statistics, Hebei University of Economics and Business; Major: Information and Computing Science|  
 
 ### Publications
 [1] Y. Wu, S. Zhao, W. Li, Phrase2Vec: Phrase Embedding Based on Parsing, Information Sciences, 517 (2020) 100-127.  
