@@ -28,7 +28,9 @@ Lecturer and postgraduate tutor of School of Information Science and Technology,
 
 |  表头   | 表头  | 表头  |
 |  ----  | ----  | ----  |
-| 单元格  | 单元格 | 单元格 |
+| Doctor of Science| School of Mathematics and Information Science, Hebei Normal University |Computational Mathematics|  
+| Master of Engineering| School of Mathematics and Information Science, Hebei Normal University |Computer Technology|  
+| Bachelor of Science |  College of Mathematics and Statistics, Hebei University of Economics and Business |Information and Computing Science|
 | 单元格  | 单元格 | 单元格 |
 
 
