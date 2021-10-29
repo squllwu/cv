@@ -7,7 +7,7 @@
       <p><b>石家庄铁道大学</b></p>
       <p><b>邮箱：wuyongliang@stdu.edu.cn</b></p>
       <p><b>地址：河北省石家庄市北二环东路17号，石家庄铁道大学，邮编：050043</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><a href="index_cn.md">Chinese Version</a></p>
     </td>
     <td width="25%">
       <img src="pic.jpg" width="100%">
